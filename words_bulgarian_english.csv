@@ -1,0 +1,96 @@
+﻿bulgarian;english;category
+здравей;hello;greetings
+добро утро;good morning;greetings
+добър ден;good afternoon;greetings
+добър вечер;good evening;greetings
+лека нощ;good night;greetings
+чао;bye;greetings
+до скоро;see you soon;greetings
+до утре;see you tomorrow;greetings
+благодаря;thank you;greetings
+моля;please;greetings
+извинявай;sorry;greetings
+няма проблем;no problem;greetings
+да;yes;basics
+не;no;basics
+може би;maybe;basics
+разбира се;of course;basics
+добре;okay;basics
+много добре;very good;basics
+как си;how are you;conversation
+добре съм;I am fine;conversation
+а ти;and you;conversation
+как мина денят ти;how was your day;conversation
+как мина следобедът ти;how was your afternoon;conversation
+какво правиш;what are you doing;conversation
+къде си;where are you;conversation
+тук съм;I am here;conversation
+не разбирам;I do not understand;learning
+разбирам;I understand;learning
+можеш ли да повториш;can you repeat;learning
+говори по-бавно;speak more slowly;learning
+как се казва това;how do you say that;learning
+какво означава това;what does it mean;learning
+уча български;I study Bulgarian;study
+ще уча;I will study;study
+трябва да уча;I have to study;study
+много уроци за наваксване;many lessons to catch up on;study
+добра ученичка;good student;study
+ще бъда добра ученичка;I will be a good student;study
+винаги съм права;I am always right;fun
+трябва да ме слушаш;you should listen to me;fun
+пусна ли дрона да лети;did you fly the drone;fun
+приятен ден;have a nice day;daily
+приятен следобед;have a nice afternoon;daily
+приятен апетит;bon appetit;daily
+лека работа;have an easy workday;work
+успех;good luck;encouragement
+браво;bravo;encouragement
+кафе;coffee;daily
+първо кафе;first coffee;daily
+второ кафе;second coffee;daily
+трето кафе;third coffee;daily
+обичам кафе;I love coffee;daily
+искам кафе;I want coffee;daily
+искам вода;I want water;daily
+вода;water;daily
+хляб;bread;daily
+мляко;milk;daily
+чай;tea;daily
+закуска;breakfast;daily
+обяд;lunch;daily
+вечеря;dinner;daily
+куче;dog;animals
+котка;cat;animals
+уморена съм;I am tired;feelings
+щастлива съм;I am happy;feelings
+тъжна съм;I am sad;feelings
+гладна съм;I am hungry;feelings
+жадна съм;I am thirsty;feelings
+студено ми е;I am cold;feelings
+топло ми е;I am warm;feelings
+днес;today;time
+утре;tomorrow;time
+вчера;yesterday;time
+скоро;soon;time
+по-рано;earlier;time
+малко по-рано;a bit earlier;time
+сега;now;time
+по-късно;later;time
+искам;I want;verbs
+мога;I can;verbs
+трябва;I have to;verbs
+ако трябва;if needed;verbs
+да уча;to study;verbs
+ще бъда;I will be;verbs
+ще отида;I will go;verbs
+ще дойда;I will come;verbs
+липсваш ми;I miss you;relationships
+пожелавам ти лека нощ;I wish you good night;relationships
+днес ти пожелавам лека нощ малко по-рано;today I wish you good night a little earlier;relationships
+в небето;in the sky;poetic
+скоро ще бъда в небето;I will soon be in the sky;poetic
+цялото оборудване;all the equipment;work
+за утре;for tomorrow;time
+колегите бяха ли мили с теб;were the colleagues nice to you;work
+има ли колеги които са мили с теб;are there colleagues who are nice to you;work
