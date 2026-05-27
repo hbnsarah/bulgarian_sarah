@@ -26,7 +26,7 @@ def next_word():
 
 word = st.session_state.current_word
 
-st.subheader("Translate this word:")
+st.subheader("Translate this:")
 st.write(f"### {word['bulgarian']}")
 
 answer = st.text_input(
@@ -41,6 +41,6 @@ if st.button("Check"):
     if user_answer == correct_answer:
         st.success("Correct!")
     else:
-        st.error(f"It's not correct Noob!. The correct answer is: {word['english']}")
+        st.error(f"It's not correct Noob! The correct answer is: {word['english']}")
 
 st.button("Next word", on_click=next_word)
